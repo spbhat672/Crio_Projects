@@ -1,0 +1,14 @@
+a ,a:hover{
+    color:black !important;
+    text-decoration: none !important;
+}
+
+#icon{
+width: 27px;
+height: 9px;
+left: 1px;
+top: 10px;
+
+background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+border-radius: 4.5px;
+}
