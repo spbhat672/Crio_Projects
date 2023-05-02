@@ -1,0 +1,41 @@
+.genre-panel-bg{
+    background-color: #454242;
+}
+
+.genre-panel button:not(:last-child) {
+    margin-right: 10px;
+  }
+
+.genre-panel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 180px;
+  }
+  
+  .genre-button {
+    /* flex: 1 1 80px; */
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: none;
+  }
+
+  .firstline{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .age-group-panel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  

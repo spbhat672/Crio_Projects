@@ -1,0 +1,82 @@
+.ant-modal-content {
+    border: none;
+    border-radius: 8px;
+    background-color: #454242 !important;
+  }
+
+  .ant-form-item-label,
+.ant-input::placeholder {
+  color: white !important;
+}
+
+.ant-form-item-label,
+.ant-input,
+.ant-input-affix-wrapper,
+.ant-input-prefix,
+.ant-input-suffix,
+.ant-input-search-icon {
+  color: white !important;
+}
+
+.ant-picker-input input::placeholder {
+  color: white;
+}
+
+.ant-modal-content input::placeholder {
+  color: white;
+}
+
+.ant-picker-input input::placeholder {
+  color: white !important;
+}
+
+
+.ant-form-item-label[for="releaseDate"] {
+  width: 100%;
+}
+
+.ant-form-item-control-input-content {
+  width: 100%;
+}
+
+.date-picker .ant-picker-input > input {
+  color: white !important;
+}
+
+.ant-picker-input > input {
+  color: white !important;
+}
+
+.select-container .ant-select-selector {
+  background-color: #454242 !important;
+  color: white !important;
+  border-color: white !important;
+}
+
+.select-container .ant-select-arrow {
+  color: white !important;
+}
+
+.ant-picker-input>input::placeholder {
+  color: red;
+}
+
+.ant-select-selection-placeholder {
+  color: white !important;
+}
+
+.ant-form-item-required {
+  color: white !important;
+}
+
+.ant-picker-suffix{
+  color:white !important;
+}
+
+.ant-modal-close-x{
+  color:white !important;
+}
+
+
+
+
